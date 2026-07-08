@@ -1,5 +1,7 @@
 ---
 title: Analysis
-format: gfm
+format: 
+  gfm:
+    variant: -yaml_metadata_block
 ---
 Run from 01_eda
