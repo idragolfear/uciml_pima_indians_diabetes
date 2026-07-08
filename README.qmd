@@ -2,6 +2,6 @@
 title: Analysis
 format: 
   gfm:
-    variant: -yaml_metadata_block
+    keep-yaml: false
 ---
 Run from 01_eda
