@@ -1,0 +1,1 @@
+raw_data <- readr::read_csv(here::here("data", "raw", "pima-indians-diabetes-database.csv"))
